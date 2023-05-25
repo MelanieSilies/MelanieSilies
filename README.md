@@ -30,8 +30,7 @@
 <img src="./readmebilder/1.png" alt="readme" width="100%">
 <img src="./readmebilder/2.png" alt="readme" width="100%">
 <img src="./readmebilder/3.png" alt="readme" width="100%">
-<img src="./readmebilder/4.png" alt="readme" width="100%">
-<img src="./readmebilder/5.png" alt="readme" width="100%">
+
 
 
 <div >
